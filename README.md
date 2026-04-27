@@ -1,4 +1,3 @@
-# Generative-Image-Synthesis-Using-Denoising-Diffusion-Probabilistic-Models-(DDPM)
 ## Reproducing Figures from Denoising Diffusion Probabilistic Models (DDPM)
 
 This project reproduces the **visual figures** from the paper:
